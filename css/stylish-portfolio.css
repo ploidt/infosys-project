@@ -255,3 +255,8 @@ footer {
 .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
 .tg .tg-r3en{font-weight:bold;background-color:#4298E3;color:#efefef;text-align:center;vertical-align:top}
 .tg .tg-xqyg{color:#949292;text-align:center;vertical-align:top;background-color: white;}
+
+#booknow {
+    text-shadow: 5px -5px black;
+    text-outline: 2px 10px black;
+}
