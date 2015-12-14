@@ -53,6 +53,7 @@ template {
 a {
   background-color: transparent;
 }
+<<<<<<< Updated upstream
 display: table;
     width: 100%;
     height: 400px;
@@ -62,6 +63,8 @@ display: table;
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+=======
+>>>>>>> Stashed changes
 a:active,
 a:hover {
   outline: 0;
@@ -1101,6 +1104,7 @@ body {
   color: #2c3e50;
   background-color: #ffffff;
 }
+<<<<<<< Updated upstream
 
 /*.bottomDivider {
     display: table;
@@ -1113,6 +1117,8 @@ body {
     background-size: cover;
     -o-background-size: cover;
 }*/
+=======
+>>>>>>> Stashed changes
 input,
 button,
 select,
@@ -3007,7 +3013,11 @@ select[multiple].input-lg {
 }
 @media (min-width: 768px) {
   .form-horizontal .control-label {
+<<<<<<< Updated upstream
     text-align: right;
+=======
+    text-align: center;
+>>>>>>> Stashed changes
     margin-bottom: 0;
     padding-top: 11px;
   }
@@ -7043,4 +7053,15 @@ a.list-group-item-danger.active:focus {
 }
 .popover {
   color: #2c3e50;
+<<<<<<< Updated upstream
 }
+=======
+}
+
+
+
+
+
+
+
+>>>>>>> Stashed changes
